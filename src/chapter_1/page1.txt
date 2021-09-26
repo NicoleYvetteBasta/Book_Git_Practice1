@@ -1,0 +1,14 @@
+This is the first page of chapter 1
+
+This is our book
+
+
+Flow of new project
+• Create a local repository
+• The hidden .git folder would be made to keep track of changes
+• Create a file / Update file
+• Make a file with some information • Or Update an existing file
+• Commit the changes
+• Commit to the local repository with a proper commit message
+• Link / Push to remote repository
+• Connect to a github repository and push the changes
